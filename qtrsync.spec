@@ -35,3 +35,20 @@ rm -rf %{buildroot}
 %{_bindir}/qtrsync
 %{_datadir}/applications/qtrsync.desktop
 
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> alpha.0.1-3mdv2011.0
++ Revision: 614686
+- the mass rebuild of 2010.1 packages
+
+* Tue Dec 08 2009 Stéphane Téletchéa <steletch@mandriva.org> alpha.0.1-2mdv2010.1
++ Revision: 475194
+- import qtrsync
+
+
+* Tue Nov 03 2009 Donald Stewart <Schultz@mandriva.org> QtRsync-alpha.0.1-2mdv
+- add requires
+- add buildrequires
+* Mon Nov 02 2009 Donald Stewart <schultz@mandriva.org> QtRsync-alpha.0.1-1mdv
+- Initial release
