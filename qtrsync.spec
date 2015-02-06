@@ -2,7 +2,7 @@
 
 Name:		qtrsync
 Version:	alpha.0.1
-Release:	%mkrel 3
+Release:	4
 License:	GPLv2+
 URL:		http://www.qt-apps.org/content/show.php/QtRsync?content=75828
 BuildRoot:	%{_tmppath}/%{AppName}-%{version}-%{release}-build
