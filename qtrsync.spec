@@ -4,7 +4,7 @@ Name:		qtrsync
 Version:	alpha.0.1
 Release:	4
 License:	GPLv2+
-URL:		http://www.qt-apps.org/content/show.php/QtRsync?content=75828
+URL:		https://www.qt-apps.org/content/show.php/QtRsync?content=75828
 Source:		%{AppName}-%{version}.tar.gz
 BuildRequires:	qt4-devel
 Requires:	rsync
