@@ -6,6 +6,7 @@ Release:	4
 License:	GPLv2+
 URL:		https://www.qt-apps.org/content/show.php/QtRsync?content=75828
 Source:		%{AppName}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	qt4-devel
 Requires:	rsync
 Group:		Networking/WWW
